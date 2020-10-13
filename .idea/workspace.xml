@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adfa9c48-c7f7-44d0-9069-7304a16c810f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/rice/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/rice/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/rice/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/rice/LinkedListTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1evkyvONdNDT69YY14DQKoVMrLt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bitbucket/lab5_bitbucket" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="JUnit.LinkedListTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.rice.Main" />
+      <module name="lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5" />
+      <option name="PACKAGE_NAME" value="test.rice" />
+      <option name="MAIN_CLASS_NAME" value="test.rice.LinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="lab5" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.rice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.rice" />
+      <option name="MAIN_CLASS_NAME" value="main.rice.Main" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedListTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adfa9c48-c7f7-44d0-9069-7304a16c810f" name="Default Changelist" comment="" />
+      <created>1595209711226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595209711226</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="387" y="51" width="1232" height="1011" key="#Project_Structure" timestamp="1595289875110">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="387" y="51" width="1232" height="1011" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1595289875110" />
+    <state x="450" y="196" width="1297" height="723" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595289655031">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="450" y="196" width="1297" height="723" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1595289655031" />
+    <state x="794" y="439" width="389" height="235" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595289811843">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="794" y="439" width="389" height="235" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1595289811843" />
+    <state x="333" y="150" width="1454" height="814" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1595290195758">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="333" y="150" width="1454" height="814" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1595290195758" />
+    <state x="484" y="27" width="1008" height="1053" key="CommitChangelistDialog2" timestamp="1595360973321">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="484" y="27" width="1008" height="1053" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1595360973321" />
+    <state x="725" y="255" width="651" height="603" key="FileChooserDialogImpl" timestamp="1599516788571">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="725" y="255" width="651" height="603" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599516788571" />
+    <state width="1851" height="301" key="GridCell.Tab.0.bottom" timestamp="1599517758754">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1851" height="301" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1599517758754" />
+    <state width="1851" height="301" key="GridCell.Tab.0.center" timestamp="1599517758752">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1851" height="301" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1599517758752" />
+    <state width="1851" height="301" key="GridCell.Tab.0.left" timestamp="1599517758751">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1851" height="301" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1599517758751" />
+    <state width="1851" height="301" key="GridCell.Tab.0.right" timestamp="1599517758753">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1851" height="301" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1599517758753" />
+    <state x="67" y="27" width="1538" height="1053" key="SettingsEditor" timestamp="1595361246710">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="27" width="1538" height="1053" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1595361246710" />
+    <state x="474" y="412" width="1029" height="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595289822959">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="474" y="412" width="1029" height="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1595289822959" />
+    <state x="262" y="27" width="927" height="1053" key="find.popup" timestamp="1595230374621">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="262" y="27" width="927" height="1053" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1595230374621" />
+    <state x="67" y="46" width="1843" height="1021" key="new project wizard" timestamp="1595387908265">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="46" width="1843" height="1021" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1595387908265" />
+    <state x="1" y="27" width="1055" height="1049" key="search.everywhere.popup" timestamp="1595360999969">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1" y="27" width="1055" height="1049" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1595360999969" />
+  </component>
+</project>
